@@ -105,7 +105,7 @@ Although repeated failed login attempts can be associated with brute-force activ
 - `../screenshots/01-alert-overview.png`
 - `../screenshots/02-event-details.png`
 - `../screenshots/03-account-fields.png`
-- `../screenshots/04-event-viewer.png`
+- `../screenshots/04-event-viewer.jpeg`
 
 ## 10. Tools Used
 
